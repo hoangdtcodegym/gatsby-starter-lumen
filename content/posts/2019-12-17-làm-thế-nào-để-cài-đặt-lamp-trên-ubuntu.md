@@ -1,7 +1,7 @@
 ---
 template: post
 title: Làm thế nào để cài đặt LAMP trên Ubuntu
-slug: ubuntu/lam_the_nao_de_cai_LAMP
+slug: lam_the_nao_de_cai_lamp
 draft: false
 date: 2019-12-17T02:08:45.664Z
 description: Cách để cài đặt LAMP trên ubuntu
