@@ -61,7 +61,7 @@ Mỗi lần như vậy, bạn lại yêu anh ấy nhiều hơn. Anh ấy chăm c
 
 Chủ yếu là anh ấy muốn ở bên bạn, làm cho bạn hạnh phúc.
 
-Các bạn sẽ cùng nhau cười, cùng nhau chơi. Trong vài phút, các bạn có thể dễ dàng chuyển từ cười thành khóc như những đứa trẻ 4 tuổi sang thảo luận về tác động đáng lo người của AI với con người.
+Các bạn sẽ cùng nhau cười, cùng nhau chơi. Trong vài phút, các bạn có thể dễ dàng chuyển từ cười thành khóc như những đứa trẻ 4 tuổi sang thảo luận về tác động đáng lo ngại của AI với con người.
 
 Các bạn yêu nhau, làm tình. Cảm thấy thư giãn khi ở bên nhau và cảm giác như muốn về một nhà.
 
