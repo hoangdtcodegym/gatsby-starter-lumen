@@ -2,7 +2,7 @@
 template: post
 title: Làm thế nào để cài đặt LAMP trên Ubuntu
 slug: 'https://c1019i1.netlify.com/lam_the_nao_de_cai_LAMP'
-draft: true
+draft: false
 date: 2019-12-17T02:08:45.664Z
 description: Cách để cài đặt LAMP trên ubuntu
 category: UBUNTU
