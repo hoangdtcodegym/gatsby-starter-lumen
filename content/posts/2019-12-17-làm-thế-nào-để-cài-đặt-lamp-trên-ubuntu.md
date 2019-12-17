@@ -5,7 +5,7 @@ slug: 'https://c1019i1.netlify.com/lam_the_nao_de_cai_LAMP'
 draft: true
 date: 2019-12-17T02:08:45.664Z
 description: Cách để cài đặt LAMP trên ubuntu
-category: UBUNTU
+category: ubuntu
 tags:
   - '#ubuntu #LAMP #linux #mysql #apache #php'
 ---
