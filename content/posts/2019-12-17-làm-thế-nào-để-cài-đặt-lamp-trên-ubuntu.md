@@ -37,4 +37,6 @@ sudo apt-get install phpmyadmin
 
 
 
-source: https://medium.com/better-programming/how-to-install-lamp-stack-on-ubuntu-db77ac018116
+Source: https://medium.com/better-programming/how-to-install-lamp-stack-on-ubuntu-db77ac018116
+
+Translator by: Đông đẹp trai :V
