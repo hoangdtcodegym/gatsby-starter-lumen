@@ -1,7 +1,7 @@
 ---
 template: post
 title: Làm thế nào để cài đặt LAMP trên Ubuntu
-slug: /lam_the_nao_de_cai_lamp
+slug: lam_the_nao_de_cai_lamp
 draft: false
 date: 2019-12-17T02:08:45.664Z
 description: Cách để cài đặt LAMP trên ubuntu
@@ -34,5 +34,7 @@ sudo apt-get install libapache2-mod-php7.0 php7.0 php7.0-common php7.0-curl php7
 ## **Bước 5: cài đặt phpmyadmin (cho cơ sở dữ liệu)**
 
 sudo apt-get install phpmyadmin
+
+
 
 source: https://medium.com/better-programming/how-to-install-lamp-stack-on-ubuntu-db77ac018116
