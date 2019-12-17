@@ -7,7 +7,7 @@ date: 2019-12-17T02:08:45.664Z
 description: Cách để cài đặt LAMP trên ubuntu
 category: UBUNTU
 tags:
-  - '#ubuntu #LAMP #linux #mysql #apache #php'
+  - LAMP
 ---
 Bộ cài đặt LAMP là 1 bộ cài phần mềm mã nguồn mở, nó giúp bạn có thể tạo websites và ứng dụng web. LAMP là từ viết tắt của 1 bộ bao gồm hệ điều hành Linux, Apache server, hệ quản trị cơ sở dữ liệu MySQL, và ngôn ngữ lập trình PHP.
 
