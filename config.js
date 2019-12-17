@@ -25,7 +25,7 @@ module.exports = {
     }
   ],
   author: {
-    name: 'C1019i1-',
+    name: 'C1019i1',
     photo: '/photo.jpg',
     bio: 'Hội những coder đẹp trai của CodeGym <3',
     contacts: {
