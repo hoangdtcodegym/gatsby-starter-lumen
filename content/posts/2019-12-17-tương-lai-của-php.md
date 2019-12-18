@@ -2,7 +2,7 @@
 template: post
 title: Tương lai của PHP.
 slug: 'PHP, dead leaguage'
-draft: true
+draft: false
 date: 2019-12-17T08:53:44.903Z
 description: |
   PHP đã có những ngày tốt đẹp. Nhưng có phải nó đang chết?
