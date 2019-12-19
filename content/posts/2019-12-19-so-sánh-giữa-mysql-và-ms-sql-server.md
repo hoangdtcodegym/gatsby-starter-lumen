@@ -5,8 +5,6 @@ slug: so-sanh-mysql-va-ms-sql-server
 draft: false
 date: 2019-12-19T08:04:20.402Z
 description: >-
-
-
   Trong khi phát triển các phần mềm ứng dụng, lập trình viên sử dụng cơ sở dữ
   liệu quan hệ để quản lý hệ thống (RDBMS) để thêm, đọc, cập nhật và xóa các dữ
   liệu back-end. Họ cũng vận dụng các RDBMS để tùy chỉnh các truy vấn trong ngôn
