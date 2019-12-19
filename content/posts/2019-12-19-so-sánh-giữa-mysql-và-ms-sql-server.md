@@ -4,9 +4,14 @@ title: So sánh giữa MySQL và MS SQL Server
 slug: so-sanh-mysql-va-ms-sql-server
 draft: false
 date: 2019-12-19T08:04:20.402Z
-description: |+
+description: >-
 
 
+  Trong khi phát triển các phần mềm ứng dụng, lập trình viên sử dụng cơ sở dữ
+  liệu quan hệ để quản lý hệ thống (RDBMS) để thêm, đọc, cập nhật và xóa các dữ
+  liệu back-end. Họ cũng vận dụng các RDBMS để tùy chỉnh các truy vấn trong ngôn
+  ngữ (SQL) với các câu lệnh. Các nhà phát triển có thể tùy chọn từ một số RDBMS
+  theo yêu cầu riêng của một số dự án.
 category: MySQL
 tags:
   - MySQL
