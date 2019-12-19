@@ -4,9 +4,7 @@ title: Đừng yêu một người đàn ông thông minh và có tính hướng
 slug: khunglongdideptoong2000
 draft: false
 date: 2019-12-17T02:13:22.181Z
-description: >-
-  source:
-  https://psiloveyou.xyz/do-not-fall-in-love-with-a-smart-introverted-man-8792ac8ca4cd
+description: Bạn có đang yêu phải một người đàn ông thông minh nhưng hướng nội ?
 category: Tâm Lý Tình Yêu
 tags:
   - Tình Cảm
@@ -80,3 +78,7 @@ Anh ta sẽ không bao giờ quay lại.
 Bạn sẽ chẳng bao giờ biết lý do tại sao, điều đó sẽ ám ảnh bạn trong nhiều ngày, nhiều tháng, thậm chí nhiều năm.
 
 Khi gặp một người như vậy, bạn không nên yêu.
+
+Nguyễn Đức Long
+
+Source: source: https://psiloveyou.xyz/do-not-fall-in-love-with-a-smart-introverted-man-8792ac8ca4cd
