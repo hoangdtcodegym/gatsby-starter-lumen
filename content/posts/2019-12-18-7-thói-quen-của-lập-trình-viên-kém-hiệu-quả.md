@@ -2,7 +2,7 @@
 template: post
 title: 7 thói quen của lập trình viên kém hiệu quả
 slug: div.khoi
-draft: true
+draft: false
 date: 2019-12-18T01:39:16.489Z
 description: 'https://www.facebook.com/nguyenquang.huy.37669528'
 category: Thích Lập Trình
