@@ -2,7 +2,7 @@
 template: post
 title: Các framework PHP tốt nhất 2019
 slug: framework cho php tot nhat
-draft: true
+draft: false
 date: 2019-12-20T01:30:57.737Z
 description: >
   Bài viết tham khảo dựa trên các kết quả và khảo sát từ google, Stack Over
