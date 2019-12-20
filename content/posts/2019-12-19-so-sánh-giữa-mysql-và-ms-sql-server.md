@@ -2,7 +2,7 @@
 template: post
 title: So sánh giữa MySQL và MS SQL Server
 slug: so-sanh-mysql-va-ms-sql-server
-draft: true
+draft: false
 date: 2019-12-19T08:04:20.402Z
 description: >-
   Trong khi phát triển các phần mềm ứng dụng, lập trình viên sử dụng cơ sở dữ
